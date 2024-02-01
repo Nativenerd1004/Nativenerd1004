@@ -1,5 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fvikingscareerstrategists.com%2Fcareer-in-data-science-jobs-salary-career-path-and-relevant-skills%2F&psig=AOvVaw2ef6kO7GtkkKo-C0lu5Kwl&ust=1706890702392000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCX4sHFioQDFQAAAAAdAAAAABAE
-
+https://vikingscareerstrategists.com/wp-content/uploads/2020/05/Data-science.jpg
 
 
 - 👋 Hi, I’m Uche Samuel Madumere
