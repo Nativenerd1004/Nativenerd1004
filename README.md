@@ -2,11 +2,12 @@
 
 
 - 👋 Hi, I’m Uche Samuel Madumere
-- 👀 I’m interested in Data Science and Creative Designs.
+- 👀 I’m a Full Stack Data Scientist and Creative Designer.
 - 🌱 I’m currently learning Python Programming. 
 - 💞️ I’m looking to collaborate on Python Hubs to develop something astonishing.
 - 📫 You can reach me at samuelmadumere6@gmail.com or my work email at pixelmazondesignstudio@gmail.com.
-- 😄 Pronouns: He
+- 📲 My LinkedIn Profile https://www.linkedin.com/in/samuell-madumereee-67b04833/?trk=public-profile-join-page
+-  - 😄 Pronouns: He
 - ⚡ Fun fact: Love listening to music, taking a walk, watching cinematic graphical visuals or movies and working out.
 
 <!---
