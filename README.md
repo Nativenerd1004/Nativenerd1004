@@ -1,4 +1,4 @@
-https://vikingscareerstrategists.com/wp-content/uploads/2020/05/Data-science.jpg
+![image](https://github.com/Nativenerd1004/Nativenerd1004/assets/149740069/066b2a9c-dd63-48fc-a9d0-dcb9a5b33932)
 
 
 - 👋 Hi, I’m Uche Samuel Madumere
