@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Uche Samuel Madumere
 - 👀 I’m a Full Stack Data Scientist and Creative Designer.
-- 🌱 I’m currently learning Python Programming. 
+- 🌱 Being practising and learning more on machine learning and python programming. 
 - 💞️ I’m looking to collaborate on Python Hubs to develop something astonishing.
 - 📫 You can reach me at samuelmadumere6@gmail.com or my work email at pixelmazondesignstudio@gmail.com.
 - 📲 My LinkedIn Profile https://www.linkedin.com/in/samuell-madumereee-67b04833/?trk=public-profile-join-page
